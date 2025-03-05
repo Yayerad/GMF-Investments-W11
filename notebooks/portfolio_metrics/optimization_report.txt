@@ -1,0 +1,13 @@
+GMF Investments Portfolio Optimization Report
+=============================================
+
+Optimal Weights:
+- TSLA: 0.00%
+- BND: 0.00%
+- SPY: 100.00%
+
+Key Metrics:
+- Expected Annual Return: 6.73%
+- Annual Volatility: 0.08%
+- Sharpe Ratio: 58.44
+- TSLA 95% Daily VaR: -0.13%
